@@ -1,3 +1,6 @@
+require "simplecov"
+SimpleCov.start
+
 require "minitest/autorun"
 
 $LOAD_PATH.unshift(File.expand_path(File.join(__dir__, "../lib")))
