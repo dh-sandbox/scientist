@@ -89,6 +89,31 @@
 
 ## v1.1.1 (6 February 2018)
 - New: Add a hook to use fabricated durations instead of actual timing data.
+- New: measure CPU time alongside wall time for experiments #275
+
+## v1.6.4 (5 April 2023)
+
+- New: GitHub Actions for CI #171
+- New: add ruby 3.1 support #175
+- Fix: `compare_errors` in docs #178
+- Fix: remove outdated travis configs #179
+- Fix: typos #191
+- New: add support for `after_run` blocks #211
+
+## v1.6.3 (9 December 2021)
+
+- New: measure CPU time alongside wall time for experiments #275
+
+## v1.6.4 (5 April 2023)
+
+- New: GitHub Actions for CI #171
+- New: add ruby 3.1 support #175
+- Fix: `compare_errors` in docs #178
+- Fix: remove outdated travis configs #179
+- Fix: typos #191
+- New: add support for `after_run` blocks #211
+
+## v1.6.3 (9 December 2021)
 
 ## v1.2.0 (5 July 2018)
 
