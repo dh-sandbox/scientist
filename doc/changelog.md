@@ -75,3 +75,29 @@
 - New: Run CI on Ruby 2.3 and 2.4
 - Fix: `README` typos, examples, and lies
 - Fix: `false` results are now passed to the cleaner
+- - New: Add a hook to use fabricated durations instead of actual timing data.
+
+## v1.2.0 (5 July 2018)
+
+- New: Use monotonic clock for duration calculations
+- New: Drop support for ruby <2.1 to support monotonic clock
+- New: Run CI on Ruby 2.5
+
+## v1.1.2 (9 May 2018)
+
+- New: Add `raise_with` option to allow for custom mismatch errors to be raised
+
+## v1.1.1 (6 February 2018)
+- New: Add a hook to use fabricated durations instead of actual timing data.
+
+## v1.2.0 (5 July 2018)
+
+- New: Use monotonic clock for duration calculations
+- New: Drop support for ruby <2.1 to support monotonic clock
+- New: Run CI on Ruby 2.5
+
+## v1.1.2 (9 May 2018)
+
+- New: Add `raise_with` option to allow for custom mismatch errors to be raised
+
+## v1.1.1 (6 February 2018)
