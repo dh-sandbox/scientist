@@ -1,16 +1,8 @@
 name: CI
-on: [push, pull_request]
+on: [push]
 permissions:
-  actions: none
-  checks: write
-  contents: read
-  deployments: none
-  issues: none
-  packages: none
-  pull-requests: none
-  repository-projects: none
-  security-events: none
-  statuses: write
+    contents: read
+    id-token: write
 jobs:
   build:
     name: ruby-${{ matrix.ruby_version }}
