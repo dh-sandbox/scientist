@@ -618,3 +618,52 @@ Be on a Unixy box. Make sure a modern Bundler is available. `script/test` runs t
 [@jesseplusplus](https://github.com/jesseplusplus),
 [@rick](https://github.com/rick),
 and [@zerowidth](https://github.com/zerowidth)
+
+## Alternatives
+
+- [daylerees/scientist](https://github.com/daylerees/scientist) (PHP)
+- [scientistproject/scientist.net](https://github.com/scientistproject/Scientist.net) (.NET)
+- [joealcorn/laboratory](https://github.com/joealcorn/laboratory) (Python)
+- [rawls238/Scientist4J](https://github.com/rawls238/Scientist4J) (Java)
+- [tomiaijo/scientist](https://github.com/tomiaijo/scientist) (C++)
+- [trello/scientist](https://github.com/trello/scientist) (node.js)
+- [ziyasal/scientist.js](https://github.com/ziyasal/scientist.js) (node.js, ES6)
+- [TrueWill/tzientist](https://github.com/TrueWill/tzientist) (node.js, TypeScript)
+- [TrueWill/paleontologist](https://github.com/TrueWill/paleontologist) (Deno, TypeScript)
+- [yeller/laboratory](https://github.com/yeller/laboratory) (Clojure)
+- [lancew/Scientist](https://github.com/lancew/Scientist) (Perl 5)
+- [lancew/ScientistP6](https://github.com/lancew/ScientistP6) (Perl 6)
+- [MadcapJake/Test-Lab](https://github.com/MadcapJake/Test-Lab) (Perl 6)
+- [cwbriones/scientist](https://github.com/cwbriones/scientist) (Elixir)
+- [calavera/go-scientist](https://github.com/calavera/go-scientist) (Go)
+- [jelmersnoeck/experiment](https://github.com/jelmersnoeck/experiment) (Go)
+- [spoptchev/scientist](https://github.com/spoptchev/scientist) (Kotlin / Java)
+- [junkpiano/scientist](https://github.com/junkpiano/scientist) (Swift)
+- [serverless scientist](http://serverlessscientist.com/) (AWS Lambda)
+- [fightmegg/scientist](https://github.com/fightmegg/scientist) (TypeScript, Browser / Node.js)
+- [MisterSpex/misterspex-scientist](https://github.com/MisterSpex/misterspex-scientist) (Java, no dependencies)
+
+## Alternatives
+
+- [daylerees/scientist](https://github.com/daylerees/scientist) (PHP)
+- [scientistproject/scientist.net](https://github.com/scientistproject/Scientist.net) (.NET)
+- [joealcorn/laboratory](https://github.com/joealcorn/laboratory) (Python)
+- [rawls238/Scientist4J](https://github.com/rawls238/Scientist4J) (Java)
+- [tomiaijo/scientist](https://github.com/tomiaijo/scientist) (C++)
+- [trello/scientist](https://github.com/trello/scientist) (node.js)
+- [ziyasal/scientist.js](https://github.com/ziyasal/scientist.js) (node.js, ES6)
+- [TrueWill/tzientist](https://github.com/TrueWill/tzientist) (node.js, TypeScript)
+- [TrueWill/paleontologist](https://github.com/TrueWill/paleontologist) (Deno, TypeScript)
+- [yeller/laboratory](https://github.com/yeller/laboratory) (Clojure)
+- [lancew/Scientist](https://github.com/lancew/Scientist) (Perl 5)
+- [lancew/ScientistP6](https://github.com/lancew/ScientistP6) (Perl 6)
+- [MadcapJake/Test-Lab](https://github.com/MadcapJake/Test-Lab) (Perl 6)
+- [cwbriones/scientist](https://github.com/cwbriones/scientist) (Elixir)
+- [calavera/go-scientist](https://github.com/calavera/go-scientist) (Go)
+- [jelmersnoeck/experiment](https://github.com/jelmersnoeck/experiment) (Go)
+- [spoptchev/scientist](https://github.com/spoptchev/scientist) (Kotlin / Java)
+- [junkpiano/scientist](https://github.com/junkpiano/scientist) (Swift)
+- [serverless scientist](http://serverlessscientist.com/) (AWS Lambda)
+- [fightmegg/scientist](https://github.com/fightmegg/scientist) (TypeScript, Browser / Node.js)
+- [MisterSpex/misterspex-scientist](https://github.com/MisterSpex/misterspex-scientist) (Java, no dependencies)
+
