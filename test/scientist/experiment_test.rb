@@ -741,6 +741,88 @@ candidate:
       # Measured durations
       assert_in_delta 0.1, cand.duration, 0.01
       assert_in_delta 0.1, cand.cpu_time, 0.01
+
+      describe Scientist::Experiment 
+do
+
+  
+class
+ 
+Fake
+
+    
+include
+ Scientist::Experiment
+    
+# Undo auto-config magic / preserve default behavior of Scientist::Experiment.new
+
+    Scientist::Experiment.set_default(
+nil
+)
+    
+def
+ 
+initialize
+(*args)
+
+    
+end
+
+
+  describe Scientist::Experiment 
+do
+
+  
+class
+ 
+Fake
+
+    
+include
+ Scientist::Experiment
+    
+# Undo auto-config magic / preserve default behavior of Scientist::Experiment.new
+
+    Scientist::Experiment.set_default(
+nil
+)
+    
+def
+ 
+initialize
+(*args)
+
+    
+end
+
+
+  describe Scientist::Experiment 
+do
+
+  
+class
+ 
+Fake
+
+    
+include
+ Scientist::Experiment
+    
+# Undo auto-config magic / preserve default behavior of Scientist::Experiment.new
+
+    Scientist::Experiment.set_default(
+nil
+)
+    
+def
+ 
+initialize
+(*args)
+
+    
+end
+
+
     end
   end
 end
